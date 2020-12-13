@@ -16,6 +16,8 @@ The customer is confirmed: ${customer.firstName} ${customer.lastName}
 
 <br><br>
 
+<img src="${pageContext.request.contextPath}/resources/images/spring-logo.png" width="100%" height="auto"/>
+
 </body>
 
 </html>
